@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Gravity
+</name>
+</assembly>
+<members>
+<member name="M:Gravity.Module1.Main">
+ <summary>
+ Consider a 2D grid, which contains apples, obstacles, and open spaces. Gravity will pull
+ the apples straight down, until they hit an obstacle, Or the bottom Of the grid, Or
+ another apple which has already come To rest. Obstacles don't move. Given such a grid,
+ determine where the apples eventually settle.
+ Input
+ Each input will consist of a single test case. Note that your program may be run multiple
+ times on different inputs. The first line of input contains two integers, r And c
+ (1≤r,c≤100), which are the number of rows And the number of columns of the grid. On
+ each of the next r lines will be c characters: 'o’ (lowercase ‘Oh’) for an apple, ‘#’ for an
+ obstacle, And '.’ for an open space.
+ Output
+ Output the grid, after the apples have fallen
+ </summary>
+</member>
+<member name="T:Gravity.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Gravity.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Gravity.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

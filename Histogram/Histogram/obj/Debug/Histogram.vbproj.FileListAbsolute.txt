@@ -1,0 +1,10 @@
+c:\users\dreedy\documents\visual studio 2015\Projects\Histogram\Histogram\bin\Debug\Histogram.exe.config
+c:\users\dreedy\documents\visual studio 2015\Projects\Histogram\Histogram\bin\Debug\Histogram.exe
+c:\users\dreedy\documents\visual studio 2015\Projects\Histogram\Histogram\bin\Debug\Histogram.pdb
+c:\users\dreedy\documents\visual studio 2015\Projects\Histogram\Histogram\bin\Debug\Histogram.xml
+c:\users\dreedy\documents\visual studio 2015\Projects\Histogram\Histogram\obj\Debug\Histogram.vbprojResolveAssemblyReference.cache
+c:\users\dreedy\documents\visual studio 2015\Projects\Histogram\Histogram\obj\Debug\Histogram.Resources.resources
+c:\users\dreedy\documents\visual studio 2015\Projects\Histogram\Histogram\obj\Debug\Histogram.vbproj.GenerateResource.Cache
+c:\users\dreedy\documents\visual studio 2015\Projects\Histogram\Histogram\obj\Debug\Histogram.exe
+c:\users\dreedy\documents\visual studio 2015\Projects\Histogram\Histogram\obj\Debug\Histogram.xml
+c:\users\dreedy\documents\visual studio 2015\Projects\Histogram\Histogram\obj\Debug\Histogram.pdb

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Periodic
+</name>
+</assembly>
+<members>
+<member name="T:Periodic.Module1">
+ <summary>
+ Define a k-periodic string as follows:
+ A String s Is k-periodic If the length Of the String |s| Is a multiple Of k, And If you chop the
+ String up into |s|/k substrings Of length k, then each of those substrings (except the
+ first) Is the same as the previous substring, but with its last character moved to the
+ front.
+ For example, the following string Is 3-periodic
+ abccabbcaabc
+ The above String can break up into substrings abc, cab, bca, And abc, And Each
+ substring(except the first) Is a right-rotation Of the previous substring (abccab
+ bca abc).
+ Given a String, determine the smallest k For which the String Is k-periodic.
+ Input
+ Each input will consist of a single test case. Note that your program may be run multiple
+ times on different inputs. The single line of input contains a string s (1≤|s|≤100)
+ consisting only Of lowercase letters.
+ Output
+ Output the Integer k, which Is the smallest k For which the input String Is k-periodic
+ </summary>
+</member>
+<member name="T:Periodic.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Periodic.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Periodic.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

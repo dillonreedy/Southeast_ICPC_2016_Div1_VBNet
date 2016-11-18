@@ -1,0 +1,10 @@
+c:\users\dreedy\documents\visual studio 2015\Projects\Gravity\Gravity\bin\Debug\Gravity.exe.config
+c:\users\dreedy\documents\visual studio 2015\Projects\Gravity\Gravity\bin\Debug\Gravity.exe
+c:\users\dreedy\documents\visual studio 2015\Projects\Gravity\Gravity\bin\Debug\Gravity.pdb
+c:\users\dreedy\documents\visual studio 2015\Projects\Gravity\Gravity\bin\Debug\Gravity.xml
+c:\users\dreedy\documents\visual studio 2015\Projects\Gravity\Gravity\obj\Debug\Gravity.Resources.resources
+c:\users\dreedy\documents\visual studio 2015\Projects\Gravity\Gravity\obj\Debug\Gravity.vbproj.GenerateResource.Cache
+c:\users\dreedy\documents\visual studio 2015\Projects\Gravity\Gravity\obj\Debug\Gravity.exe
+c:\users\dreedy\documents\visual studio 2015\Projects\Gravity\Gravity\obj\Debug\Gravity.xml
+c:\users\dreedy\documents\visual studio 2015\Projects\Gravity\Gravity\obj\Debug\Gravity.pdb
+c:\users\dreedy\documents\visual studio 2015\Projects\Gravity\Gravity\obj\Debug\Gravity.vbprojResolveAssemblyReference.cache

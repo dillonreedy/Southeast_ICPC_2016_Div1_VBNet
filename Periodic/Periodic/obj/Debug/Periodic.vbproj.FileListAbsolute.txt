@@ -1,0 +1,10 @@
+c:\users\dreedy\documents\visual studio 2015\Projects\Periodic\Periodic\bin\Debug\Periodic.exe.config
+c:\users\dreedy\documents\visual studio 2015\Projects\Periodic\Periodic\bin\Debug\Periodic.exe
+c:\users\dreedy\documents\visual studio 2015\Projects\Periodic\Periodic\bin\Debug\Periodic.pdb
+c:\users\dreedy\documents\visual studio 2015\Projects\Periodic\Periodic\bin\Debug\Periodic.xml
+c:\users\dreedy\documents\visual studio 2015\Projects\Periodic\Periodic\obj\Debug\Periodic.vbprojResolveAssemblyReference.cache
+c:\users\dreedy\documents\visual studio 2015\Projects\Periodic\Periodic\obj\Debug\Periodic.Resources.resources
+c:\users\dreedy\documents\visual studio 2015\Projects\Periodic\Periodic\obj\Debug\Periodic.vbproj.GenerateResource.Cache
+c:\users\dreedy\documents\visual studio 2015\Projects\Periodic\Periodic\obj\Debug\Periodic.exe
+c:\users\dreedy\documents\visual studio 2015\Projects\Periodic\Periodic\obj\Debug\Periodic.xml
+c:\users\dreedy\documents\visual studio 2015\Projects\Periodic\Periodic\obj\Debug\Periodic.pdb
